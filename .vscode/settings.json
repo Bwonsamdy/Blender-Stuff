@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3d modeling.sln"
+    "dotnet.defaultSolution": "Blender-Stuff.sln"
 }
